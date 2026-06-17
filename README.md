@@ -9,7 +9,7 @@ https://arxiv.org/abs/2506.13130
 Dependencies are managed with `uv`.
 
 ```bash
-pip install uv
+curl -LsSf https://astral.sh/uv/install.sh | sh
 uv sync
 ```
 
