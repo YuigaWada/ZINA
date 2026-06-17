@@ -1,0 +1,28 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.python-version
+
+# Editor and OS files
+*~
+\#*\#
+.DS_Store
+
+# Runtime outputs and local assets
+results/
+outputs/
+.cache/
+checkpoints/
+weights/
+zina_weights_final
+zina_sample.jpg
