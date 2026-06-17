@@ -40,3 +40,18 @@ The command returns JSON. `pred_with_tags` preserves ZINA's span annotations, wh
   "pred": "..."
 }
 ```
+
+## BibTeX
+
+```bibtex
+@inproceedings{wada2026zina,
+    title     = {{ZINA: Multimodal Fine-grained Hallucination Detection and Editing}},
+    author    = {Wada, Yuiga and Matsuda, Kazuki and Sugiura, Komei and Neubig, Graham},
+    year      = {2026},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+}
+```
+
+## License
+
+This work is licensed under the BSD-3-Clause-Clear license. To view a copy of this license, see [LICENSE](LICENSE).
